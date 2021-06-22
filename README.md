@@ -1,1 +1,1 @@
-@bmink is Barna Mink
+bmink is Barna Mink
