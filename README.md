@@ -1,4 +1,3 @@
 bmink is Barna Mink
 
-Sr. Director Engineering @ [Gracenote](https://gracenote.com)
-
+Mostly POC (Plain old C)
